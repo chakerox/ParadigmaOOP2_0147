@@ -10,4 +10,4 @@ class orang {
         {
             cout << "orang dibuat dengan umur" << umur << "\n" << endl;
         }
-}:
+};
