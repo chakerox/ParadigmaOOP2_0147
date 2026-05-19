@@ -17,4 +17,4 @@ class AbsraksiKlas{
             cout << "nilai x = " << x << endl;
             cout << "nilai y = " << y << endl;
         }
-}
+};
