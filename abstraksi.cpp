@@ -18,3 +18,11 @@ class AbsraksiKlas{
             cout << "nilai y = " << y << endl;
         }
 };
+
+int main(){
+    AbsraksiKlas ak;
+    ak.setXY("jigja", "kampus");
+    ak.display();
+
+    return 0;
+}
